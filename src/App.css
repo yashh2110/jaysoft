@@ -1,3 +1,12 @@
+*{
+  list-style: none;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+  transition: 0.2s;
+  text-shadow: 0px 2px 7px lightgray;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +44,38 @@
   to {
     transform: rotate(360deg);
   }
+}
+.about{
+  padding:10px;
+  background-color:white
+}
+.about h2{
+  padding:10px;
+  color:rgb(66, 66, 66);
+  border-bottom: 1px solid lightgray;
+}
+.about p{
+  padding-top:6px;
+}
+.about h4{
+  padding:10px;
+  display: inline-block;
+  border-bottom: 2px solid lightgrey;
+  color:rgb(66, 66, 66);
+ 
+}
+.about b{
+  color: rgba(0, 0, 0, 0.712);
+}
+.quote{
+  border-radius: 5px;
+  background-color: rgb(235, 235, 235);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.quote p{
+  font-size: 1.4em;
+  color: rgb(73, 73, 73);
 }

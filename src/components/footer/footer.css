@@ -1,0 +1,19 @@
+.footer{
+    position: relative;
+    width:100%;
+    bottom: 0;
+    padding:20px;
+    min-height:40vh;
+    background-color: rgb(75, 75, 75);
+    margin-top:10px;
+}
+.footer-inline{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    color:white
+}
+.footer-inline div{
+    min-width: 300px
+}
