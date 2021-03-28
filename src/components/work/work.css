@@ -1,0 +1,8 @@
+.work{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    margin:3px 40px 0 40px;
+    padding-bottom:40px;
+}

@@ -1,0 +1,25 @@
+.contact-inline{
+    padding: 20px;
+    min-height: calc(100vh - 86px);
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.map{
+    width:600px;
+}
+h4{
+    color: rgb(63, 63, 63);
+}
+.contact-inline div{
+    margin: 10px;
+}
+@media screen and (max-width:600px){
+    .map{
+        position: relative;
+        margin-top: 30px;
+        width:300px;
+    }
+}
