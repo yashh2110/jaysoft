@@ -21,7 +21,7 @@ function MainNav() {
   },[])
     return (
         <Navbar ref={navbar} collapseOnSelect expand="lg" style={{transition:"0.4s"}} sticky="top" bg="light" variant="light">
-        <Navbar.Brand ><img src={Logo}width="60" alt="Logo"></img> <b style={{color:"#D7DB23"}}>Jay</b><b style={{color:"#9F9F9F"}}>Soft</b></Navbar.Brand>
+        <Navbar.Brand ><img src={Logo}width="60" alt="Logo"></img> <b style={{color:"#676767"}}>Jay</b><b style={{color:"#9F9F9F"}}>Soft</b></Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto">
