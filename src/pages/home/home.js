@@ -18,7 +18,7 @@ const Home =()=>{
           <div className="about" id="about">
           <Container >
             <h2>About Us</h2>
-            <p>“Knowledge is not skill, knowledge plus ten thousand times is skill” is what we believe. The team at Skill Voice has years of experience in the field of Information Technology which provide services to the clients seeking expertise in analysis, design, development, testing, deployment & support. We ensure the highest levels of quality, professionalism and satisfaction to our clients. Simply put, we have the best skill to support you in your journey.</p>
+            <p>“Knowledge is not skill, knowledge plus ten thousand times is skill” is what we believe. The team at Jay Soft has years of experience in the field of Information Technology which provide services to the clients seeking expertise in analysis, design, development, testing, deployment & support. We ensure the highest levels of quality, professionalism and satisfaction to our clients. Simply put, we have the best skill to support you in your journey.</p>
             <h4>Our Vision</h4>
             <p>We aspire to become the premier provider of IT services by exceeding our client’s expectations in delivering software according to their business needs.</p>
             <h4>Our Values</h4>

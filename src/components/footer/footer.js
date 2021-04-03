@@ -12,7 +12,7 @@ function Footer() {
                     </div>
                     
                     <br/>
-                    <p>“knowledge is not skill, knowledge plus ten thousand times is skill” is what we believe. The team at Skill Voice has years of experience in the field of Information Technology which provides services to the clients seeking expertise in analysis, design, development, testing, deployment & support.</p>
+                    <p>“knowledge is not skill, knowledge plus ten thousand times is skill” is what we believe. The team at Jay Soft has years of experience in the field of Information Technology which provides services to the clients seeking expertise in analysis, design, development, testing, deployment & support.</p>
                 </div>
                 <div>
                     <h4 className="text-white text-left">Address</h4>
